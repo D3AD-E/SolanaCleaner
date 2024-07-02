@@ -6,7 +6,7 @@ This Node.js TypeScript application facilitates the closure of Solana blockchain
 
 ## Why
 
-Each Solana account requires a fee of approximately 0.01 SOL, which can be recovered if the account is closed. Closing 100 accounts will return around 0.5 SOL back. [Read more](https://solana.com/docs/core/accounts)
+Each Solana account requires a fee of approximately 0.005 SOL, which can be recovered if the account is closed. Closing 100 accounts will return around 0.5 SOL back. [Read more](https://solana.com/docs/core/accounts)
 
 ## Prerequisites
 
