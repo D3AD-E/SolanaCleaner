@@ -5,6 +5,7 @@ declare global {
     interface ProcessEnv {
       RPC_ENDPOINT: string;
       WALLET_PRIVATE_KEY: string;
+      COMMITMENT: Commitment;
     }
   }
 }

@@ -5,7 +5,6 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 export const solanaConnection = new Connection(process.env.RPC_ENDPOINT as string, {
-  wsEndpoint: process.env.WEBSOCKET_ENDPOINT as string,
   commitment: process.env.COMMITMENT as Commitment,
 });
 
