@@ -23,6 +23,7 @@ Set the environment variables in a `.env` file:
 ```dotenv
 WALLET_PRIVATE_KEY=your_private_key_for_the_wallet
 RPC_ENDPOINT=rpc_endpoint_url
+COMMITMENT=processed
 ```
 For rpc you can use free ones listed [here](https://solana.com/rpc)
 
